@@ -1,0 +1,132 @@
+Player,Country,Age,Attack,Block,Serve,Set,Dig,Receive,Position
+Ichikawa Yuki,Japan,28,15.8,1.13,1.4,0.07,4.8,5.6,OH
+Romano Yuri,Italy,26,12.33,1.07,1.47,0,3.87,0,OP
+Abdel-Aziz Nimir,Nederland,31,15.33,0.67,2.08,0,3.17,0.25,OP
+Herrera Jaime Jesus,Cuba,28,15,0.92,1.75,0,3.33,0.17,OP
+Takahashi Ran,Japan,22,11.53,0.67,1,0.07,6.4,5.07,OH
+Luburic Drazen,Serbia,30,14.33,0.58,1.08,0,4.25,0,OP
+Urnaut Tine,Slovenia,35,12.62,0.31,1.38,0,5.85,5,OH
+Zhang Jingyin,China,24,13.5,1.83,1.42,0,3.42,4,OH
+Souza Alen,Brazil,29,12.46,0.62,0.54,0,4.15,0,OP
+Souza Ricardo Lucarelli,Brazil,31,11.85,0.92,1.46,0.15,5.38,3.62,OH
+Palonsky Luciano,Argentina,24,11.62,1,1.46,0,5.62,4.38,OH
+Lopez Castro Miguel Angel,Cuba,26,12.33,0.58,1.33,0,4,4.42,OH
+Cebulj Klemen,Slovenia,31,11.15,1.38,0.69,0,4.69,2.15,OH
+Defalco Torey,USA,26,9.53,0.87,1.07,0,4.2,3.87,OH
+Mozic Rok,Slovenia,21,10.77,1.08,0.77,0,3.31,2.54,OH
+Anderson Matthew,USA,36,9.07,0.53,1.13,0,4.47,0,OP
+Weber Linus,Germany,24,10.42,0.75,0.75,0,2.92,0,OP
+Kujundzic Miran ,Serbia,26,10.33,0.92,1.33,0.08,5.42,4.58,OP
+Nishida Yuji,Japan,23,8.5,0.21,0.86,0.07,2.93,0.07,OP
+Lima Bruno,Argentina,27,9.15,0.54,0.54,0,2.31,0.15,OP
+Maar Stephen Timothy,Canada,29,9.75,1.25,0.67,0.17,4.67,4.75,OH
+Miyaura Kento,Japan,24,7.73,0.33,1,0,1.93,0,OP
+Michieletto Alessandro,Italy,22,10.45,1.55,1.18,0,5.45,2.82,OH
+Nikolov Aleksandar,Bulgaria,20,14.25,0.62,0.88,0,4.12,4.62,OH
+Sclater Ryan Joseph,Canada,29,9.5,0.92,0.58,0,4.25,0,OP
+Vicentin Luciano ,Argentina,23,8.62,1.15,0.46,0,5.54,4.31,OH
+Leon Venero Wilfredo,Poland,30,9.91,1.27,1.27,0,1.91,1.73,OH
+Lavia Daniele,Italy,24,9.82,1.82,0.55,0,4.55,5.55,OH
+Reichert Moritz,Germany,28,8.67,0.67,0.75,0,4.33,5.75,OH
+Loser Agustin,Argentina,26,7.92,4.08,0.92,0,2.31,0.69,MB
+Van Garderen Maarten,Nederland,33,8.58,1.25,0.83,0,3.58,3.25,OH
+Atanasov Martin,Bulgaria,27,8.33,1.08,0.67,0,3.17,5.25,OH
+Esmaeilnezhad Amin,Iran,27,12,1,1.75,0,3.5,0.25,OP
+Jiang Chunan,China,29,7.83,0.5,0.33,0,2.75,0,OP
+Brehme Anton,Germany,24,7.75,1.08,0.92,0,0.92,0.17,MB
+Tillie Kevin,France,33,9.56,0.44,0.22,0,6.33,6.56,OH
+Clevenot Trevor,France,29,9.56,0.78,0.33,0,3.44,4.11,OH
+Yant Herrera Marlon,Cuba,22,7.08,0.92,0.33,0,2.42,3.17,OH
+Sharifi Morteza,Iran,24,7.64,0.36,0.36,0,3,3,OH
+Hoag Nicholas ,Canada,31,7,0.33,0.83,0,4.08,3.5,OH
+Russell Aaron,USA,30,6,0.71,0.93,0,2.07,2.21,OH
+Yu Yuantai,China,26,6.92,0.33,0.42,0,3.08,4.58,OH
+Koukartsev Pablo Sergio,Argentina,30,6.23,0.46,0.23,0,2,0.38,OP
+Szwarc Arthur ,Canada,28,6.67,0.58,0.75,0,1.83,0.08,OP
+Jaeschkle Thomas ,USA,30,7.27,1,0.64,0,4.55,3.27,OH
+Onodera Taishi,Japan,27,5.2,1.2,0.27,0,2.13,0.6,MB
+Honorato Henrique Dantas Nobrega,Brazil,26,5.92,1.15,0.38,0,3.23,3,OH
+Kurek Bartosz,Poland,35,6.91,0.36,0.18,0,2.27,0.27,OP
+Kaczmarek Lukasz,Poland,29,10.57,1.43,0.29,0,2.86,0.29,OP
+Sliwka Aleksander ,Poland,28,10.57,0.86,0.57,0.14,4.29,3.57,OH
+Asparuhov Asparuh,Bulgaria,23,5.92,0.5,0.17,0,1.83,0.08,OH
+Chineyeze Barthelemy,France,26,7.78,1.67,0.44,0,1.89,0,MB
+Dimitrov Dimitar,Bulgaria,23,5.75,0.67,0.42,0,3.17,0.08,OP
+Tuinstra Bennie Junior,Nederland,23,5.75,0.25,0.92,0,2.08,3.92,OH
+Carle Timothee,France,28,5.23,0.31,0.54,0.08,2.38,2.54,OH
+Patry Jean,France,27,7.56,1.11,0.67,0,1.78,0,OP
+Concepcion Rojas Javier Octavio,Cuba,26,5.58,2.42,0.25,0,2.17,0.5,MB
+Pajenk Alen,Slovenia,37,5.08,1.38,0.23,0,2.38,0.54,MB
+Krsmanovic Petar,Serbia,33,5.33,2.42,0.58,0,2.17,0,MB
+Peric Pavle,Serbia,25,5.17,0.67,0.33,0,2.67,1.83,OH
+Nedeljkovic Aleksandar ,Serbia,26,5.08,2.42,0.33,0,1.58,0.08,MB
+Faure Theo,France,24,15.25,3,1.5,0,5,0,OP
+Bultor Daryl ,France,28,4.54,0.77,0.31,0,1,0,MB
+Russo Roberto,Italy,26,5.36,2.18,1.18,0,2.36,0.09,MB
+Yamauchi Akihiro ,Japan,30,3.87,0.8,0.27,0,0.73,0.2,MB
+Ivovic Marko,Serbia,33,7.25,0.62,0.62,0.25,3.88,4.75,OH
+Demyanenko Danny,Canada,29,4.75,1.33,0.58,0,1.67,0.33,MB
+Plak Fabian,Nederland,26,4.75,2.08,0.58,0,1.92,0,MB
+Boyer Stephen,France,27,6.33,0.33,0.22,0,1.89,0.11,OP
+Bieniek Mateusz,Poland,29,5.09,0.82,1.09,0,2,0.09,MB
+Resende Gualberto Flavio,Brazil,30,4.31,1.69,0.15,0,0.77,0.15,MB
+Hossein Khanzadeh Poriya,Iran,19,5.5,0.4,0.4,0,2.8,2.2,OH
+Kozamernik Jan,Slovenia,28,4.23,1.85,0.77,0,2.38,0.23,MB
+Szalpuk Artur,Poland,28,6.75,0.75,0.5,0,3.5,4,OH
+Grozdenov Aleks,Bulgaria,25,4.42,1.92,0.25,0,1.33,0,MB
+Mousavi Seyed Mohammad,Iran,36,4.42,2.92,0.25,0,1.92,0.5,MB
+Holt Maxwell,USA,36,3.53,0.8,0.6,0,1.07,0.2,MB
+Hajipour Ali,Iran,22,4.73,1.09,0.36,0,0.73,0,OP
+Zhai Dejun ,China,24,4.17,0.25,0.42,0,2,1.42,OH
+Li Yongzhen,China,25,4.08,1.5,0.33,0.08,0.58,0.17,MB
+Esfandiar Amirhossein,Iran,24,4,0.75,0.67,0,1.75,3.83,OH
+Rinaldi Tommaso,Italy,22,3.13,0.2,0.2,0,1.47,0.47,OH
+Masso Alvarez Jose Israel,Cuba,26,3.92,0.75,0.25,0,1.17,0.08,MB
+Rodrigues Pinto Otavio Henrique,Brazil,32,3.62,1,0.62,0,1.15,0,MB
+Peng Shikun,China,23,3.83,1.25,0.33,0,1.17,0.08,MB
+Valizadeh Mohammad,Iran,22,3.83,1.75,0.42,0,2.25,0.17,MB
+Semeniuk Kamil,Poland,27,4.18,0.73,0.45,0,2.55,2.73,OH
+Ter Maat Wouter,Nederland,32,5.75,0.5,0.25,0,1.25,0.25,OP
+Galassi Gianluca ,Italy,26,4.18,2,0.73,0,1.55,0,MB
+Nunes da Cunha Jr Judson Amabel,Brazil,25,3.46,0.46,0,0,0.77,0.38,MB
+Kochanowski Jakub,Poland,26,4.09,1.82,1.18,0,2.09,0.09,MB
+Stern Ziga,Slovenia,30,3.38,0.31,0.08,0,0.54,1.54,OH
+Averill Taylor,USA,31,2.87,0.47,0.4,0,0.53,0,MB
+Kolev Nikolay,Bulgaria,26,3.42,0.75,0.33,0,0.83,0,MB
+Smith David,USA,38,2.73,1.47,0.4,0,1.8,0.07,MB
+Bohme Yan,Germany,26,3.42,0.5,0,0,1,0,OP
+Zerba Nicolas,Argentina,24,3.08,0.69,0.23,0,1.08,0.23,MB
+Rohrs Erik,Germany,22,5,0.38,0.25,0,1.5,1.5,OH
+Krick Tobias,Germany,25,3.33,1.08,0,0,1.33,0,MB
+Christenson Micah,USA,30,0.4,1,0.27,21.67,4.13,0,S
+Sekita Masahiro,Japan,30,0.13,0.07,0.33,19.73,4.73,0,S
+Giannelli Simone,Italy,27,2.45,1.27,0.73,25.18,6.64,0,S
+De Cecco Luciano,Argentina,35,0.78,0.56,0.44,26.89,6.33,0,S
+Rezende Bruno Mossa,Brazil,37,0.38,0.46,0.31,18.38,4.08,0,S
+Ropret Gregor ,Slovenia,34,0.46,0.46,0.08,17.15,4.85,0,S
+Seganov Georgi ,Bulgaria,30,0.17,0.42,0.08,17.92,3,0,S
+Keemink Wessel ,Nederland,30,1,0.67,0.25,17.08,2.92,0,S
+Todorovic Vuk,Serbia,25,0.5,0.67,0.25,16.42,4.17,0,S
+Herr Luke,Canada,29,0.17,0.67,0.25,16,4,0,S
+Tille Johannes,Germany,26,0.08,0.58,0.75,15.33,3,0,S
+Taboada Diaz Lyvan,Cuba,25,0.5,1.17,0,15.25,2.92,0,S
+Brizard Antoine,France,29,0.89,0.67,0.78,17.33,3.44,0,S
+Wang Hebin,China,24,0.42,0,0.33,12.5,2.5,0.17,S
+Janusz Marcin,Poland,29,0,0.14,0.29,17.86,4,0,S
+Vadi Mohammad Taher,Iran,34,0.25,0.12,0,11.38,2.38,0,S
+Yamamoto Tomohiro,Japan,29,0,0,0,0,8.73,4.8,L
+Kovacic Jani,Slovenia,31,0,0,0,0,9.85,6.69,L
+Danani Santiago,Argentina,28,0,0,0,0,8.69,6.15,L
+Grebennikov Jenia,France,33,0,0,0,0,11.44,4.78,L
+Shoji Erik,USA,34,0,0,0,0,5.6,3.8,L
+Andringa Robbert,Nederland,33,0,0,0,0,6.92,3.75,L
+Qu Zongshuai,China,24,0,0,0,0,6.58,3.92,L
+Kapur Milorad ,Serbia,32,0,0,0,0,6.5,3.17,L
+Zatorski Pawel ,Poland,33,0,0,0,0,7.09,2.91,L
+Currie Landon,Canada,24,0,0,0,0,6,1.83,L
+Hazratpour Mohammadreza,Iran,24,0,0,0,0,5.92,3.25,L
+Graven Leonard,Germany,19,0,0,0,0,5.92,1.92,L
+Balaso Fabio,Italy,28,0,0,0,0,10,5,L
+Nacsimento Maique Reis ,Brazil,26,0,0,0,0,5.08,2.46,L
+Garcia Alvarez Yonder Roman,Cuba,30,0,0,0,0,4.25,3.25,L
+Salparov Teodor,Bulgaria,41,0,0,0,0,5,3.75,L
